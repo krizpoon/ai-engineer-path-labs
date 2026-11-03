@@ -15,3 +15,5 @@ See [`labs/README.md`](labs/README.md) for setup, the command for each chapter's
 ## About this repository
 
 The files under `labs/chNN-*/` are generated from the course chapters, so their headers say to edit the chapter instead. Changes are made in the course and copied here; issues and pull requests are still welcome.
+
+Help: see [SUPPORT.md](SUPPORT.md). The app's privacy policy is in [PRIVACY.md](PRIVACY.md).
