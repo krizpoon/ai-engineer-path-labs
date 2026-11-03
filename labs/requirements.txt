@@ -1,0 +1,6 @@
+# Core: chapters 1–5, 8, 9, 11 and the capstone's eval code, plus the smoke tests.
+# Versions are the ones the smoke tests last passed with (November 2026, Python 3.12).
+anthropic[mcp]==2.3.0
+mcp==2.3.0
+pydantic==2.14.2
+pytest==9.2.0

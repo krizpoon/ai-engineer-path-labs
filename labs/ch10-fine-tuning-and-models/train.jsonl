@@ -1,0 +1,2 @@
+{"messages":[{"role":"system","content":"Label the ticket: billing, bug or feature. Reply with the label only."},{"role":"user","content":"I was charged twice for my March invoice."},{"role":"assistant","content":"billing"}]}
+{"messages":[{"role":"system","content":"Label the ticket: billing, bug or feature. Reply with the label only."},{"role":"user","content":"The export button does nothing on Safari."},{"role":"assistant","content":"bug"}]}

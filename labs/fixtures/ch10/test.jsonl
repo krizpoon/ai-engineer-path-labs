@@ -1,0 +1,3 @@
+{"id": "x01", "input": "I was refunded the wrong amount.", "label": "billing"}
+{"id": "x02", "input": "The app crashes when I upload a photo.", "label": "bug"}
+{"id": "x03", "input": "Could you support single sign-on?", "label": "feature"}

@@ -1,0 +1,6 @@
+{"id":"t01","input":"I was charged twice for my March invoice","expected":"billing","tags":["easy"]}
+{"id":"t02","input":"The export button does nothing on Safari","expected":"bug","tags":["easy"]}
+{"id":"t03","input":"Can you add dark mode?","expected":"feature_request","tags":["easy"]}
+{"id":"t04","input":"I can't log in since I changed my email","expected":"account","tags":["ambiguous"]}
+{"id":"t05","input":"your app charged me and then crashed!!!","expected":"billing","tags":["mixed","angry"]}
+{"id":"t06","input":"","expected":"unknown","tags":["edge"]}

@@ -1,0 +1,15 @@
+# Optional extras for the embedding, RAG and fine-tuning labs (chapters 6, 7, 10 and
+# the capstone's retrieval). About 1 GB installed; models download on first use.
+# On Linux without a GPU (Codespaces), install CPU-only PyTorch first:
+#   pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+-r requirements.txt
+torch==2.15.0
+numpy==2.5.4
+sentence-transformers==6.2.0
+transformers==5.22.1
+chromadb==1.5.9
+peft==0.21.2
+accelerate==1.15.0
+# lora_finetune.py only. Its imports and dataset loading are checked; training is not run.
+datasets==5.1.0
+trl==1.17.1

@@ -1,0 +1,1 @@
+Hand-written sample data for the smoke tests. Everything here is invented and public; nothing comes from a real company. The generated chapter code lives in `labs/chNN-*`; these files are copied next to it in a temporary folder when a test runs.

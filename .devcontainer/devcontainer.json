@@ -1,0 +1,16 @@
+{
+  // Opens the course labs in GitHub Codespaces, which works from a laptop, iPad or
+  // phone browser. The ML extras (chapters 6, 7, 10) are optional: see labs/README.md.
+  "name": "AI Engineer Path labs",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install --user -r labs/requirements.txt",
+  "secrets": {
+    "ANTHROPIC_API_KEY": {
+      "description": "Only for lab scripts that call Claude. The smoke tests need no key."
+    }
+  },
+  "customizations": {
+    "codespaces": { "openFiles": ["labs/README.md"] },
+    "vscode": { "extensions": ["ms-python.python"] }
+  }
+}

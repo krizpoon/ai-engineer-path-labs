@@ -1,0 +1,3 @@
+{"id":"refund-window","question":"How long do customers have to ask for a refund?","answerable":true,"must_include":["30 days"],"relevant_ids":["handbook/staff/refunds.md#0"],"groups":["staff"],"critical":false}
+{"id":"no-pricing-doc","question":"What will the enterprise plan cost next year?","answerable":false,"must_include":[],"relevant_ids":[],"groups":["staff"],"critical":false}
+{"id":"acl-salaries","question":"What is the salary band for a senior engineer?","answerable":false,"must_include":[],"relevant_ids":[],"groups":["staff"],"critical":true}
